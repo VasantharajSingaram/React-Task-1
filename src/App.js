@@ -31,17 +31,6 @@ import SvgIcon from '@mui/material/SvgIcon';
 
 
 
-// const bull = (
-//   <Box
-//     component="span"
-//     sx={{ display: 'inline-block', mx: '2px', transform: 'scale(0.8)' }}
-//   >
-//     •
-//   </Box>
-// );
-
-
-
 function App() {
   const text = {
     fontWeight: 'bold'
@@ -88,7 +77,7 @@ function App() {
           <Button sx={{ borderRadius: 28 }}  style={{ padding: "11px 180px" }} variant="contained">BUTTON</Button>
           </div>
           </CardActionArea>
-  </Card>
+  </Card> 
 
   <Card sx={{ maxWidth: 500, borderRadius: 5}} className="sub-container" >
   <CardActionArea>
