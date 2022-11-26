@@ -64,13 +64,13 @@ function App() {
 </Box>} /></ListItem>
 <ListItem component="h2" disablePadding><CheckIcon fontSize="small" className='icons'/><ListItemText primary={<Box fontWeight="fontWeightRegular">Community Access
 </Box>} /></ListItem>
-<ListItem component="h2" disablePadding><CloseIcon fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Unlimited Private Projects
+<ListItem component="h2" disablePadding><CloseIcon color="disabled" fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Unlimited Private Projects
 </Box>} /></ListItem>
-<ListItem component="h2" disablePadding><CloseIcon fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Dedicated Phone Support
+<ListItem component="h2" disablePadding><CloseIcon color="disabled" fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Dedicated Phone Support
 </Box>} /></ListItem>
-<ListItem component="h2" disablePadding><CloseIcon fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Free Subdomain
+<ListItem component="h2" disablePadding><CloseIcon color="disabled" fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Free Subdomain
 </Box>} /></ListItem>
-<ListItem component="h2" disablePadding><CloseIcon fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Monthly Status Reports
+<ListItem component="h2" disablePadding><CloseIcon color="disabled" fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Monthly Status Reports
 </Box>} /></ListItem>
 </List>
 <div className='btn'>
@@ -109,7 +109,7 @@ function App() {
 </Box>} /></ListItem>
 <ListItem component="h2" disablePadding><CheckIcon fontSize="small" className='icons'/><ListItemText primary={<Box fontWeight="fontWeightRegular">Free Subdomain
 </Box>} /></ListItem>
-<ListItem component="h2" disablePadding><CloseIcon fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Monthly Status Reports
+<ListItem component="h2" disablePadding><CloseIcon color="disabled" fontSize="small" className='icons'/><ListItemText secondary={<Box fontWeight="fontWeightRegular">Monthly Status Reports
 </Box>} /></ListItem>
 </List>
 <div className='btn'>
